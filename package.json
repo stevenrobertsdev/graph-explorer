@@ -1,0 +1,23 @@
+{
+  "name": "parabola-explorer",
+  "version": "1.0.0",
+  "description": "Interactive parabola explorer with step-by-step working",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Steven Roberts",
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
+    "katex": "^0.19.0",
+    "vue": "^3.5.43"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.9",
+    "vite": "^8.3.3"
+  },
+  "private": true,
+  "type": "module"
+}
